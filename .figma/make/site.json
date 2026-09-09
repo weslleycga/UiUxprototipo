@@ -1,0 +1,10 @@
+{
+  "description": "Create a personalized portfolio showcasing your skills, projects, and journey in development, with customizable design elements for a unique presentation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
